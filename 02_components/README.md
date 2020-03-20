@@ -2,7 +2,7 @@
 This example uses the semantic-ui CSS framework.
 If you want to replicate this example you need to go *cdnjs.com/libraries/semantic-ui*, search for the semantic.min.css link and add it to your *public/index.html* file as a stylesheet. 
 
-We also make use of the *faker.js* library to generate random images. To intall it you can use the command
+We also make use of the *faker.js* library to generate random images. To install it you can use the command
 ```
 npm install --save faker
 ```
