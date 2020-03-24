@@ -1,6 +1,6 @@
 # Dependencies
 This example uses the semantic-ui CSS framework.
-If you want to replicate this example you need to go *cdnjs.com/libraries/semantic-ui*, search for the semantic.min.css link and add it to your *public/index.html* file as a stylesheet. 
+If you want to replicate this example you need to go to *cdnjs.com/libraries/semantic-ui*, search for the semantic.min.css link and add it to your *public/index.html* file as a stylesheet. 
 
 # Important Concepts
 
@@ -92,7 +92,7 @@ rarely used:
 * getSnapshotBeforeUpdate
 
 ## CSS
-You can import CSS in JS and use ot in React thanks to webpack.js
+You can import CSS in JS and use it in React thanks to webpack.js
 
 ## Default props
 We can define an object called *ComponentName.defaultProps* that defines the props object in case we don't pass any property value.
