@@ -1,6 +1,6 @@
 // The code in this file is intended to run in codepen.io
 // Create a new pen and in the settings add Redux to it.
-// I the JavaScript tab, you can paste the code below
+// In the JavaScript tab, you can paste the code below
 // and see the results in the cosole.
 
 console.clear();
